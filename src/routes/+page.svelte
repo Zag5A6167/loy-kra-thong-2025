@@ -1,2 +1,22 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script>
+  // ไม่ต้อง import อะไรเพิ่มเติม
+</script>
+
+<div class="water-container">
+  
+</div>
+
+<style>
+
+
+  .water-container {
+    width: 100%;
+    height: 300px; 
+    overflow: hidden; 
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    background-color: #004d80; 
+  }
+
+</style>
