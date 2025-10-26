@@ -1,5 +1,5 @@
 <script>
-  // ไม่ต้อง import อะไรเพิ่มเติม
+
 </script>
 
 <div class="water-container">
