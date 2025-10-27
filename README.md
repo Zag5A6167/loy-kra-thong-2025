@@ -3,6 +3,8 @@
 
 
 <img width="1024" height="1024" alt="krathong" src="https://github.com/user-attachments/assets/570be506-c33c-4703-b156-f9c546a42652" />
+<img width="1880" height="911" alt="image" src="https://github.com/user-attachments/assets/f9ef9b1a-8758-4bdb-914b-62597f447c07" />
+
 
 
 
