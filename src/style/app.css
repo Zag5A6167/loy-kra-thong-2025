@@ -4,5 +4,5 @@ body {
     min-height: 100vh;
     overflow: hidden;
     background: #00D4FF;
-    background: radial-gradient(circle, rgba(0, 212, 255, 1) 0%, rgba(9, 9, 121, 1) 53%, rgba(0, 0, 0, 1) 100%);
+    background: radial-gradient(circle, rgba(0, 212, 255, 1) 0%, rgba(9, 9, 121, 1) 53%, rgb(27, 21, 33) 100%);
 }
