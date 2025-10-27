@@ -3,6 +3,7 @@
   import { fly } from "svelte/transition";
 </script>
 
+<h1 class="title-text">ลอยกระทง2025</h1>
 <div class="moon"></div>
 <div class="floor"></div>
 <img src={krathongImg} alt="krathong" class="krathong" />
@@ -11,6 +12,19 @@
 </div>
 
 <style>
+
+  .title-text{
+    font-family: "Sarabun", sans-serif;
+    font-size: 3rem;
+    color: #fff; 
+    text-align: center;
+    position: absolute;
+    top: 5rem;
+    width: 100%;
+    text-shadow: 0 0 10px rgba(255, 255, 200, 0.7); 
+    z-index: 10000;
+  }  
+
   .floor {
     width: 100%;
     height: 2rem;
