@@ -1,3 +1,15 @@
+
+
+
+
+<img width="1024" height="1024" alt="krathong" src="https://github.com/user-attachments/assets/570be506-c33c-4703-b156-f9c546a42652" />
+
+
+
+
+
+
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
