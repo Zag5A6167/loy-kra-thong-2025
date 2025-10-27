@@ -25,7 +25,7 @@
   .krathong {
   position: absolute; 
   bottom: 12rem; 
- 
+  left: 30%; 
 
   width: 8rem; 
   z-index: 9999; 
@@ -130,7 +130,7 @@
 
   @keyframes bobing{
   0% { transform: translateY(0) rotate(-5deg); }
-  50% { transform: translateY(-0.5rem) rotate(5deg); } 
+  50% { transform: translateY(-1rem) rotate(5deg); } 
   100% { transform: translateY(0) rotate(-5deg); }
   }
 </style>
